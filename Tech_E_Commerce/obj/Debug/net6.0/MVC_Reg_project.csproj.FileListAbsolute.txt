@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\MVC_Reg_project\obj\Debug\net6.0\MVC_Reg_project.RazorAssemblyInfo.cs
