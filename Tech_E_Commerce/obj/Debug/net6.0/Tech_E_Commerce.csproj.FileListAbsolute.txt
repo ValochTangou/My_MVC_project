@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Startup.cs\MVC_Reg_Tech\Tech_E_Commerce\obj\Debug\net6.0\Tech_E_Commerce.RazorAssemblyInfo.cs

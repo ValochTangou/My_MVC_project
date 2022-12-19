@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "coreclr",
+      "name": "Tech_E_Commerce.csproj",
+      "project": "Tech_E_Commerce\\Tech_E_Commerce.csproj",
+      "projectTarget": ""
+    }
+  ]
+}
